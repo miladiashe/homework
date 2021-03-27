@@ -2,7 +2,7 @@
 /**
  * pen
  */
-public class pen {
+public class Pen {
     String color;
     int prise;
     
